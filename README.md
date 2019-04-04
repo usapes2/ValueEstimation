@@ -54,5 +54,6 @@ conda env remove --name [my-env-name]
 jupyter lab
 
 ```
+Check out this awesome [tutorial](https://youtu.be/a9P7qv4P5LE) to demystify customization in jupyter lab.
 
 
